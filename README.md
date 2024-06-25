@@ -1,5 +1,5 @@
 ### Hi there, my name is Allan 👋
-Network analysis and development student && Development and integration intern.
+Network analysis and development student && Development and integration.
 
 ## **I currently work with**
 
