@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-I'm Allan, a Systems Analysis & Development student and Integration & Support Lead.
+Front-end developer and student of Systems Analysis and Development.
 
 ## **Currently working with**
 
@@ -22,6 +22,13 @@ I'm Allan, a Systems Analysis & Development student and Integration & Support Le
     height="265"
   />
 </p>
+
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AllanMicuanski&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=en" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanMicuanski&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=en" />
+</p>
+
 
 ---
 
